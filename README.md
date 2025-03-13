@@ -1,8 +1,8 @@
 ## About me:
-Hello! I`m Alexandru Tutelea, a self-taught aspiring Python developer with a pasion for databases and backend development.
+Hello! I'm Alexandru Tutelea, a self-taught aspiring Python developer with a pasion for databases and backend development.
 I studied Information Technology in high school and earned a Technical Operator in Computing diploma. However,
-i never worked in IT professionally. 
-Instead i pursued political studies in college but decided not to complete my degree as it didn`t align with my interests.
+I never worked in IT professionally. 
+Instead I pursued political studies in college but decided not to complete my degree as it didn`t align with my interests.
 For the past 13 years, I`ve been running a successfull seabuckthorn bio-farm, and three years ago I co-founded a flower-workshop with my wife, which is thriving.
 While managing these businesses, I`ve always felt drawn back to my passion for technology and programming. 
 Now, I`m committed to transitioning into a remote IT career, focusing on Python and databases.
